@@ -17,7 +17,6 @@ Using hypothesis testing and regression models, the study identifies statistical
 ---
 
 ## 📂 Dataset
-- Source: [Bike Sharing Dataset (UCI Repository / Kaggle)](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset)  
 - Rows: ~17K daily/hourly rental events  
 - Key Columns:  
   - `datetime` → timestamp of rentals  
@@ -65,4 +64,10 @@ Using hypothesis testing and regression models, the study identifies statistical
 ## 📎 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/yulu-bike-demand-analysis.git
+   https://github.com/ambitiousankith-datatechi/Yulu-Bike-Rental-Demand-Analysis.git
+
+📬 Author
+
+👤 Sai Ankith Avula
+
+https://www.linkedin.com/in/avula-sai-ankith/
